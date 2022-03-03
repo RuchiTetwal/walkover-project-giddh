@@ -1,6 +1,6 @@
 # MERN Stack | Login, Register and CRUD app
 
-### This Projec demonstrates the following
+### This Project demonstrates the following
 ##### Backend
 - API to register and login user.
 - API using which loged in user can add, edit and update it's product.
@@ -22,16 +22,16 @@ Below noted things you need to install to run this project in your system
 
 Clone or download this repository
 
-1. `cd walkover-giddh/backend`
+1. `cd walkover_project/backend`
 2. `npm install`
-3. `cd walkover-giddh/frontend`
+3. `cd walkover_project/frontend`
 4. `npm install`
 
 To run node server
-1. `cd walkover-giddh/backend`
+1. `cd walkover_project/backend`
 2. `node server.js`
 
 To run react frontend
-1. `cd walkover-giddh/frontend`
+1. `cd walkover_project/frontend`
 2. `npm start`
 
