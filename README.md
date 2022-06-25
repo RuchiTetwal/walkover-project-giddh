@@ -21,16 +21,16 @@ Below noted things you need to install to run this project in your system
 
 Clone or download this repository
 
-1. `cd walkover_project/backend`
+1. `cd walkover-project-giddh/backend`
 2. `npm install`
-3. `cd walkover_project/frontend`
+3. `cd walkover-project-giddh/frontend`
 4. `npm install`
 
 To run node server
-1. `cd walkover_project/backend`
+1. `cd walkover-project-giddh/backend`
 2. `node server.js`
 
 To run react frontend
-1. `cd walkover_project/frontend`
+1. `cd walkover-project-giddh/frontend`
 2. `npm start`
 
