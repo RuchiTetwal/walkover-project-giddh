@@ -4,7 +4,7 @@
 ##### Backend
 - API to register and login user.
 - API using which loged in user can add, edit and update it's product.
-- Pagination API to give list of particular user's added product.
+- API to give list of particular user's added product.
 - JWT token authentication.
 
 ##### Frontend
@@ -12,7 +12,6 @@
 - Using react and material UI created form to login user and can register new user.
 - Product add, edit, delete and pagination also you can search product by name.
 - Making HTTP calls using Axios.
-- Calling multipart api with image upload.
 
 
 Below noted things you need to install to run this project in your system
